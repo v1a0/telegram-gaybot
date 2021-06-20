@@ -1,0 +1,4 @@
+aiogram>=2.12.1
+loguru==0.5.3
+sqllex==0.1.7.1
+yarl==1.6.3
